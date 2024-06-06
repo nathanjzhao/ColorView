@@ -6,7 +6,4 @@ Utilizing PyTorch, we build upon [Multi-view Feature Fusion Network for Camoufla
 
 Full results of this CS 231N final project, along with model improvements resulting from dataset expansion and pixel-based noramlization, can be viewed in the following [paper](readme/Exploring Color Modification in Multi-view Feature Fusion Networks.pdf).
 
-### License
-This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for details.
-
 
