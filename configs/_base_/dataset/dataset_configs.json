@@ -1,0 +1,92 @@
+{
+  "cod10k_camo_tr": {
+    "root": "./data/COD/Train/COD10K_CAMO",
+    "image": {
+      "path": "Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT_Object",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "GT_Edge",
+      "suffix": ".png"
+    }
+  },
+  "cod10k_camo_te": {
+    "root": "./data/COD/Test/COD10K_CAMO",
+    "image": {
+      "path": "Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT_Object",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "GT_Edge",
+      "suffix": ".png"
+    }
+  },
+  "acd1k_tr": {
+    "root": "./data/Military/Train/ACD1K_Only",
+    "image": {
+      "path": "Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT_Object",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "GT_Edge",
+      "suffix": ".png"
+    }
+  },
+  "acd1k_te": {
+    "root": "./data/Military/Test/ACD1K_Only",
+    "image": {
+      "path": "Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT_Object",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "GT_Edge",
+      "suffix": ".png"
+    }
+  },
+  "acd1k_camo_tr": {
+    "root": "./data/Military/Train/ACD1K_CAMO",
+    "image": {
+      "path": "Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT_Object",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "GT_Edge",
+      "suffix": ".png"
+    }
+  },
+  "acd1k_camo_te": {
+    "root": "./data/Military/Test/ACD1K_CAMO",
+    "image": {
+      "path": "Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "GT_Object",
+      "suffix": ".png"
+    },
+    "edge": {
+      "path": "GT_Edge",
+      "suffix": ".png"
+    }
+  }
+}
